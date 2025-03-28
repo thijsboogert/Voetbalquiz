@@ -1,0 +1,1 @@
+// De hoofdcomponent komt hier in de echte versie, zie later
